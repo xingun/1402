@@ -19,7 +19,7 @@ body {
   background-image: url("../img/3d28ae425248a05544665dd53400f52e.jpg");
   background-repeat: no-repeat;
   background-position: left center;
-  background-size: 1000px;
+  background-size: auto;
 }
 h1.heading {
   font-family: "Pacifico", cursive;
