@@ -1,12 +1,12 @@
-var a=prompt("Enter YourName");
- var b=prompt("Enter Password");
-  	if(a== "nguyentuyetminh" && b=="07-10-2004")
+var a=prompt("Enter UserName");
+ var b=prompt("Enter password");
+  	if(a== "tsu" && b=="737420")
   	{
   	    window.location.href="start.html";
   	}
   	else
   	{
   		alert("invalid details");
-  		window.location.href="index.html";
+  		window.location.href="index1.html";
   	}
   	
